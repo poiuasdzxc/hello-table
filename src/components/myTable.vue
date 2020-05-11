@@ -62,8 +62,8 @@
           {{ player.name }}
         </th>
         <th>{{ player.weeklyRate }}</th>
-        <th v-if="player.image">
-          <img class="img" :src="player.image" alt="">
+        <th>
+          <img class="img" v-if="player.image" :src="player.image" alt="">
         </th>
       </tr>
     </tbody>

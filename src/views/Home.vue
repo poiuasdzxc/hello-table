@@ -152,7 +152,7 @@ export default {
           rating: 85,
           name: '张三',
           weeklyRate: 68,
-          image: ''
+          image: 'http://www.pic-zhijia-qiniu.scrchz.com/FuolG3IeWRMq6UQihkCncYm6AtxK'
         }
       ]
     }
